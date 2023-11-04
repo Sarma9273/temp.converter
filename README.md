@@ -1,2 +1,4 @@
-# temp.converter.github.io
-this is the code for a calculator that converts one type of temperature to the other
+# temperature-converter.github.io
+this is a website that has celcius, Kelvin, Fahrenheit temperature in it
+it converts the temperature into other to types on the same moment you insert the value of the one temperatur for more data please go watch thee project at 
+https://temperature-converter.github.io
