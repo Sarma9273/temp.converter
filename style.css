@@ -12,7 +12,8 @@ html {
 .container { 
   width: 100%; 
   height: 100vh; 
-  background-image: linear-gradient(rgb(42, 185, 225), rgb(125, 245, 5)); 
+  background-image: url('bg.jpg');
+  background-size: cover;
   display: flex; 
   flex-direction: column; 
   justify-content: center; 
@@ -54,6 +55,11 @@ html {
   background: white; 
   border-radius: 5px; 
   text-align: center; 
+} 
+.portfolio { 
+  color:rgb(230, 30, 30); 
+  background-color: aqua;
+
 } 
 
 .btn1{
